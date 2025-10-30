@@ -5,4 +5,5 @@ somehow delete .git folder or git remote remove origin
 cp .env.example .env
 
 change the name in package.json or npm pkg set name="package-name"
+
 npm install
