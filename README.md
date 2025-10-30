@@ -1,6 +1,6 @@
 git clone https://github.com/krfdv/ts-package-template .
 
-git remote remove origin
+somehow delete .git folder or git remote remove origin 
 
 cp .env.template .env
 
