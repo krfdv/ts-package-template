@@ -1,6 +1,6 @@
 git clone https://github.com/krfdv/ts-package-template .
 
-npx rimraf .git
+npx --yes rimraf .git
 
 cp .env.example .env
 
