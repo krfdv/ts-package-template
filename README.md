@@ -1,5 +1,5 @@
 
-#### Init
+### Init
 git clone https://github.com/krfdv/ts-package-template .
 
 npx --yes rimraf .git
