@@ -17,4 +17,7 @@ npm run build
 npm run test
 #### Start
 npm run start
-
+#### Add package
+npm install package_name
+#### Remove package
+npm uninstall package_name
